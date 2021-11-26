@@ -1,0 +1,17 @@
+.Background_Vid_Aespa {
+  width: 100vw !important;
+  height: 100vh !important;
+  object-fit: cover;
+  object-position: center;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+}
+.Video_Dim {
+  height: inherit;
+  width: inherit;
+  color: rgba(0, 0, 0, 0.315);
+}
